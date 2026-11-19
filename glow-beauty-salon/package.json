@@ -1,0 +1,10 @@
+{
+  "name": "glow-beauty-salon",
+  "version": "1.0.0",
+  "description": "Glow Beauty салоны цаг захиалгын систем",
+  "main": "src/pricing.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
